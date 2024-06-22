@@ -3,7 +3,6 @@
 - **Add items**
 - **Remove Items**
 - **Mobile friendly**
-- 
-**And more...**
+- **And more...**
 ### Created using javascript and firebase for the database. 
 - ** live demo [click here](https://cartadds.netlify.app/)
